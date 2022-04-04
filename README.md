@@ -1,7 +1,7 @@
 ### Hi, I am [Vicky](https://www.linkedin.com/in/vickykvo/) 👋
- Data Work:
- Math Models/Projects
- Redesigns
+- Data Work:
+- Math Models/Projects
+- Redesigns
  
 <!--
 **Vickykvo/Vickykvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
